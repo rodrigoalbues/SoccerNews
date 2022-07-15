@@ -1,4 +1,4 @@
-# SoccerNews - Em Construção
+# SoccerNews
 App Nativo Android de Notícias sobre Futebol Feminino. Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
 1. Android Jetpack e Material Design: Criando AppsNativos Poderosos
